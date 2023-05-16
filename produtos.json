@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "brand": "Motorola",
+      "model": "Moto G200 5G",
+      "price": "R$ 3.332,22",
+      "inventory": "12"
+    },
+    {
+      "id": 1,
+      "brand": "Samsung",
+      "model": "Galaxy S21 FE 5G",
+      "price": "R$ 2.599,00",
+      "inventory": "7"
+    },
+    {
+      "id": 1,
+      "brand": "Asus",
+      "model": "Zenfone 8",
+      "price": "R$ 2.519,99",
+      "inventory": "4"
+    },
+    {
+      "id": 1,
+      "brand": "Xiaomi",
+      "model": "Redmi Note 11S",
+      "price": "R$ 1.710,54",
+      "inventory": "2"
+    }
+  ]
+}
